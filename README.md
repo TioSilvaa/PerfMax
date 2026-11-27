@@ -4,11 +4,11 @@
 
 <br>
 
-[![Baixar o PerfMax](https://img.shields.io/badge/⬇_BAIXAR_O_PERFMAX-Windows_10_e_11-00C853?style=for-the-badge&labelColor=0A0C10)](../../releases/latest/download/PerfMax-Setup.exe)
+[![Baixar o PerfMax](assets/botao-baixar.svg)](../../releases/latest/download/PerfMax-Setup.exe)
 
-[![Versão](https://img.shields.io/badge/vers%C3%A3o-0.64.2%20Beta%202-00B8D4?style=flat-square&labelColor=0A0C10)](../../releases/latest)
-![Plataforma](https://img.shields.io/badge/plataforma-Windows%2064%20bits-0A0C10?style=flat-square)
-![Idioma](https://img.shields.io/badge/idioma-portugu%C3%AAs-0A0C10?style=flat-square)
+[![Versão](assets/selo-versao.svg)](../../releases/latest)
+![Plataforma](assets/selo-plataforma.svg)
+![Idioma](assets/selo-idioma.svg)
 
 **[🌐 tiosilvaa.com/max](https://tiosilvaa.com/max)** · **[Novidades](CHANGELOG.md)** · **[Perguntas frequentes](FAQ.md)** · **[Ajuda](SUPPORT.md)** · **[Reportar um problema](../../issues/new/choose)**
 
@@ -98,8 +98,8 @@ O app tem uso gratuito e plano **Pro**. No gratuito, o Assistente tem um limite 
 
 <div align="center">
 
-[![Doar via LivePix](https://img.shields.io/badge/Doar-LivePix-00C853?style=for-the-badge&labelColor=0A0C10)](https://livepix.gg/tiosilvaa)
-[![Doar com cartão](https://img.shields.io/badge/Doar-Cart%C3%A3o_(Stripe)-00B8D4?style=for-the-badge&labelColor=0A0C10)](https://buy.stripe.com/bJecN50Ry5Dhe01e1WaEE00)
+[![Doar via LivePix](assets/botao-livepix.svg)](https://livepix.gg/tiosilvaa)
+[![Doar com cartão](assets/botao-cartao.svg)-00B8D4?style=for-the-badge&labelColor=0A0C10)](https://buy.stripe.com/bJecN50Ry5Dhe01e1WaEE00)
 
 </div>
 
