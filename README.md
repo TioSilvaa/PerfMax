@@ -70,8 +70,13 @@ O PerfMax não instala driver de kernel próprio.
 3. Siga o instalador. Algumas funções pedem permissão de administrador.
 
 > [!NOTE]
-> O instalador ainda não tem assinatura digital. Por isso o Windows pode mostrar o aviso **"O Windows protegeu o computador"**.
-> Antes de continuar, confirme que baixou o arquivo **desta página** e [confira o SHA-256](#conferir-o-arquivo).
+> **Apareceu "O Windows protegeu o computador"?** Isso acontece porque o instalador ainda não tem assinatura digital: o Windows não reconhece o fornecedor.
+>
+> 1. Confirme que baixou o arquivo **desta página** e [confira o SHA-256](#conferir-o-arquivo).
+> 2. Se for igual, clique em **Mais informações** e depois em **Executar assim mesmo**.
+> 3. Se o SHA-256 for diferente, ou o antivírus apontar uma ameaça, **não abra** o arquivo e [avise a gente](../../issues/new/choose).
+>
+> Não desligue o antivírus nem a proteção do Windows para instalar.
 
 ## Conferir o arquivo
 
