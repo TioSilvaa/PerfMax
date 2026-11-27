@@ -99,7 +99,7 @@ O app tem uso gratuito e plano **Pro**. No gratuito, o Assistente tem um limite 
 <div align="center">
 
 [![Doar via LivePix](assets/botao-livepix.svg)](https://livepix.gg/tiosilvaa)
-[![Doar com cartão](assets/botao-cartao.svg)-00B8D4?style=for-the-badge&labelColor=0A0C10)](https://buy.stripe.com/bJecN50Ry5Dhe01e1WaEE00)
+[![Doar com cartão](assets/botao-cartao.svg)](https://buy.stripe.com/bJecN50Ry5Dhe01e1WaEE00)
 
 </div>
 
