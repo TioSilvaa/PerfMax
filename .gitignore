@@ -1,0 +1,15 @@
+# TRAVA CONTRA VAZAMENTO: tudo é ignorado; só entra o que está liberado aqui embaixo.
+*
+!*/
+!.gitignore
+!/README.md
+!/CHANGELOG.md
+!/LICENSE.md
+!/SECURITY.md
+!/SUPPORT.md
+!/FAQ.md
+!/assets/*.svg
+!/assets/*.png
+!/assets/*.jpg
+!/.github/FUNDING.yml
+!/.github/ISSUE_TEMPLATE/*.yml

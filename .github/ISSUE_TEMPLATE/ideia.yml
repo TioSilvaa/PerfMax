@@ -1,0 +1,8 @@
+name: 💡 Sugerir uma melhoria
+description: Uma ideia para o PerfMax
+labels: [enhancement]
+body:
+  - type: textarea
+    id: ideia
+    attributes: { label: Sua ideia, description: "Não escreva dados pessoais: o chamado é público." }
+    validations: { required: true }

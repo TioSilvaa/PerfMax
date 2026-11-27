@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Falar em particular (conta, pagamento, dados pessoais)
+    url: https://tiosilvaa.com/contato
+    about: Chamados aqui são públicos. Assuntos de conta ou pagamento vão pelo site.
+  - name: 🌐 Página oficial do PerfMax
+    url: https://tiosilvaa.com/max
+    about: Planos, novidades e download.

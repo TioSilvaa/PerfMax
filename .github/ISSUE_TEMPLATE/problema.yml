@@ -1,0 +1,22 @@
+name: 🐞 Reportar um problema
+description: Algo não funciona como deveria
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "**Este chamado é público.** Não escreva keys, senhas, e-mails nem outros dados pessoais."
+  - type: input
+    id: versao
+    attributes: { label: Versão do PerfMax, placeholder: "ex.: 0.64.1" }
+    validations: { required: true }
+  - type: input
+    id: windows
+    attributes: { label: Versão do Windows, placeholder: "ex.: Windows 11" }
+  - type: textarea
+    id: passos
+    attributes: { label: O que você fez, placeholder: "1. Abri...\n2. Cliquei em..." }
+    validations: { required: true }
+  - type: textarea
+    id: resultado
+    attributes: { label: O que aconteceu e o que você esperava }
+    validations: { required: true }
