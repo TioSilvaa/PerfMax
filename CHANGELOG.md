@@ -1,5 +1,12 @@
 # Novidades
 
+## 0.64.2 Beta 2
+
+### Correções
+- Lentidão no PC quando havia versão nova: o aviso no topo não anima mais sem parar.
+- Com o PC em uso, o app não baixa mais a atualização sozinho: só quando o PC está parado, ou quando você toca em "Atualizar".
+- O aviso de versão nova não fica mais se repetindo.
+
 ## 0.64.1 Beta 2
 
 ### Assistente

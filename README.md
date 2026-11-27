@@ -6,7 +6,7 @@
 
 [![Baixar o PerfMax](https://img.shields.io/badge/⬇_BAIXAR_O_PERFMAX-Windows_10_e_11-00C853?style=for-the-badge&labelColor=0A0C10)](../../releases/latest/download/PerfMax-Setup.exe)
 
-[![Versão](https://img.shields.io/badge/vers%C3%A3o-0.64.1%20Beta%202-00B8D4?style=flat-square&labelColor=0A0C10)](../../releases/latest)
+[![Versão](https://img.shields.io/badge/vers%C3%A3o-0.64.2%20Beta%202-00B8D4?style=flat-square&labelColor=0A0C10)](../../releases/latest)
 ![Plataforma](https://img.shields.io/badge/plataforma-Windows%2064%20bits-0A0C10?style=flat-square)
 ![Idioma](https://img.shields.io/badge/idioma-portugu%C3%AAs-0A0C10?style=flat-square)
 
